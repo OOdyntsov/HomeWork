@@ -1,0 +1,15 @@
+D:\C#education\HomeWork\Homework_3\Homework_3\bin\Debug\net7.0\Homework_3.exe
+D:\C#education\HomeWork\Homework_3\Homework_3\bin\Debug\net7.0\Homework_3.deps.json
+D:\C#education\HomeWork\Homework_3\Homework_3\bin\Debug\net7.0\Homework_3.runtimeconfig.json
+D:\C#education\HomeWork\Homework_3\Homework_3\bin\Debug\net7.0\Homework_3.dll
+D:\C#education\HomeWork\Homework_3\Homework_3\bin\Debug\net7.0\Homework_3.pdb
+D:\C#education\HomeWork\Homework_3\Homework_3\obj\Debug\net7.0\Homework_3.csproj.AssemblyReference.cache
+D:\C#education\HomeWork\Homework_3\Homework_3\obj\Debug\net7.0\Homework_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#education\HomeWork\Homework_3\Homework_3\obj\Debug\net7.0\Homework_3.AssemblyInfoInputs.cache
+D:\C#education\HomeWork\Homework_3\Homework_3\obj\Debug\net7.0\Homework_3.AssemblyInfo.cs
+D:\C#education\HomeWork\Homework_3\Homework_3\obj\Debug\net7.0\Homework_3.csproj.CoreCompileInputs.cache
+D:\C#education\HomeWork\Homework_3\Homework_3\obj\Debug\net7.0\Homework_3.dll
+D:\C#education\HomeWork\Homework_3\Homework_3\obj\Debug\net7.0\refint\Homework_3.dll
+D:\C#education\HomeWork\Homework_3\Homework_3\obj\Debug\net7.0\Homework_3.pdb
+D:\C#education\HomeWork\Homework_3\Homework_3\obj\Debug\net7.0\Homework_3.genruntimeconfig.cache
+D:\C#education\HomeWork\Homework_3\Homework_3\obj\Debug\net7.0\ref\Homework_3.dll
