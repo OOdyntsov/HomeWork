@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hurieieva.HomeWork4", "Huri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hurieieva.HomeWork5", "ConsoleApp2\Hurieieva.HomeWork5.csproj", "{1B47458F-CFDC-40E9-A019-1D888E21EB01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hurieieva.HomeWork6", "Hurieieva.HomeWork6\Hurieieva.HomeWork6.csproj", "{6EB473A6-662C-4D4B-8ACB-504D2C2EF288}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hurieieva.HomeWork6", "Hurieieva.HomeWork6\Hurieieva.HomeWork6.csproj", "{6EB473A6-662C-4D4B-8ACB-504D2C2EF288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hurieieva.HomeWork7", "Hurieieva.HomeWork7\Hurieieva.HomeWork7.csproj", "{3C2D0B84-032C-48DA-AB83-90EE1487B148}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{6EB473A6-662C-4D4B-8ACB-504D2C2EF288}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EB473A6-662C-4D4B-8ACB-504D2C2EF288}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EB473A6-662C-4D4B-8ACB-504D2C2EF288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2D0B84-032C-48DA-AB83-90EE1487B148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2D0B84-032C-48DA-AB83-90EE1487B148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2D0B84-032C-48DA-AB83-90EE1487B148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2D0B84-032C-48DA-AB83-90EE1487B148}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
